@@ -155,4 +155,5 @@ It also demonstrates practical skills in:
 
 Express Transport Limited ERP Project
 
-Information Systems / Information Systems and Technology
+Information Systems and Technology (IST)
+Southern Delta University
